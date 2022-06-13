@@ -1,4 +1,4 @@
-# EjerciciosProgramacionFuncional1
+# Ejercicios de Programacion Funcional
 18 Ejercicios Matemáticos programando con Paradigma Funcional
 
 # _Programación Funcional_
