@@ -306,7 +306,7 @@ El GCD de dos enteros es el mayor entero positivo que divide ambos números de m
 > La función **args-swap** toma como entrada una función de dos argumentos f y devuelve una nueva función que se comporta como f pero con el orden de sus dos argumentos intercambiados. En otras palabras:
 
 <p align="center">
-  <img width="400" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/1.png" alt="p13">
+  <img width="400" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/1.png" alt="p13">
 </p>
 
 ### Ejemplos:
@@ -375,13 +375,13 @@ El GCD de dos enteros es el mayor entero positivo que divide ambos números de m
 > La derivada de una función f(x) con respecto a la variable x se define como:
 
 <p align="center">
-  <img width="200" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/2.png" alt="p16">
+  <img width="200" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/2.png" alt="p16">
 </p>
 
 Donde f debe ser una función continua. Escribe la función **deriv** que toma f y h como entradas, y devuelve una nueva función que toma x como argumento, y que representa la derivada de f dado un cierto valor de h. Los ejemplos verifican las siguientes derivadas:
 
 <p align="center">
-  <img width="200" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/3.png" alt="p16">
+  <img width="200" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/3.png" alt="p16">
 </p>
 
 ### Ejemplos:
@@ -407,7 +407,7 @@ Donde f debe ser una función continua. Escribe la función **deriv** que toma f
 > El método de Newton es un algoritmo para encontrar la raíz de una función a partir del cálculo de aproximaciones sucesivamente mejores. Se puede resumir de la siguiente manera:
 
 <p align="center">
-  <img width="300" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/4.png" alt="p17">
+  <img width="300" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/4.png" alt="p17">
 </p>
 
 > Algunas cosas que es necesario señalar:
@@ -439,17 +439,17 @@ Escribe la función **newton** que recibe f y n como entradas, y devuelve el val
 > La regla de Simpson es un método de integración numérica. Su fórmula es:
 
 <p align="center">
-  <img width="300" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/5.png" alt="p18">
+  <img width="300" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/5.png" alt="p18">
 </p>
 
 > Donde n es un entero positivo par (si se incrementa el valor de n se obtiene una mejor aproximación), mientras que h y yk se definen de la siguiente manera:
 
 <p align="center">
-  <img width="300" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/6.png" alt="p18">
+  <img width="300" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/6.png" alt="p18">
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/7.png" alt="p18">
+  <img width="300" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/7.png" alt="p18">
 </p>
 
 > Escribe la función **integral**, que recibe como entradas lo siguiente: a, b, n y f. Devuelve el valor de la integral definida, usando la regla de Simpson.
@@ -457,11 +457,11 @@ Escribe la función **newton** que recibe f y n como entradas, y devuelve el val
 > Los ejemplos resuelven las siguientes integrales definidas con n = 10:
 
 <p align="center">
-  <img width="300" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/8.png" alt="p18">
+  <img width="300" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/8.png" alt="p18">
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/feraranas/Problemario-Programacion-Funcional2/blob/secundario/9.png" alt="p18">
+  <img width="300" src="https://github.com/feraranas/EjerciciosProgramacionFuncional/blob/secundario/9.png" alt="p18">
 </p>
 
 ### Ejemplos:
